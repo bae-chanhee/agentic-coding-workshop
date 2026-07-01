@@ -1,1 +1,1 @@
-print("Hellow, agentic coding!")
+print("Hello, agentic coding!")
